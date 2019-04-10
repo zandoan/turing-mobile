@@ -3,6 +3,9 @@
 ## Welcome
 Welcome to the Mobile Turing Challenge. Here you'll find some examples to reach your goal. 
 
+## Swagger Documentation 
+[https://mobilebackend.turing.com/docs](https://mobilebackend.turing.com/docs)
+
 ## Root Endpoint 
 [https://mobilebackend.turing.com](https://mobilebackend.turing.com)
 
